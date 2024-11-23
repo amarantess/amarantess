@@ -12,7 +12,7 @@
 
 Tenho experiência com C# e .NET, que utilizo em meus projetos de estudo, e estou sempre buscando evoluir e aprender novas habilidades. Estou em busca da minha primeira oportunidade na área para aplicar meus conhecimentos, adquirir experiência e crescer profissionalmente.</p>
 
-## Tech Staks
+## Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>
