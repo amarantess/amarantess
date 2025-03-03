@@ -10,7 +10,7 @@
 ## Sobre mim
 <p>Meu nome é Gabriel Amarantes, tenho 18 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e focando meus estudos em programação, com ênfase em back-end.
 
-Tenho experiência com C# e .NET, que utilizo em meus projetos de estudo, e estou sempre buscando evoluir e aprender novas habilidades. Estou em busca da minha primeira oportunidade na área para aplicar meus conhecimentos, adquirir experiência e crescer profissionalmente.</p>
+Atualmente sou estágiario em desenvolvimento na Vox Soluções em TI em que trabalho utilizando C#, .NET Core, ASP.NET desenvolvendo e dando manutenções em softwares voltados para gravações de áudio e vídeo. Sempre em busca de aprender novas linguagens, tecnologias e me manter atualizado no mercado.</p>
 
 ## Tech Stack
 
